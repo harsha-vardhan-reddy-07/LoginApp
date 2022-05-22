@@ -7,4 +7,12 @@
     <string name="welcome">Welcome!!</string>
     <string name="sign_up">Sign Up</string>
     <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="Name">Name</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="Confirm_password">Confirm Password</string>
+
 </resources>
