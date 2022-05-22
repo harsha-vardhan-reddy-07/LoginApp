@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">LoginApp</string>
+    <string name="app_name">Saviour</string>
     <string name="animations_will_be_added_later">Animations will be added later</string>
     <string name="get_started">Get Started</string>
     <string name="signup_activity">SignUp Activity</string>
