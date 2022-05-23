@@ -16,6 +16,9 @@
     <string name="Confirm_password">Confirm Password</string>
     <string name="or">Or</string>
     <string name="already_have_an_account">Already have an account?</string>
+    <string name="welcome_back">Welcome back!!</string>
+    <string name="forgot_password"><![CDATA[Forgot Password?]]></string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
 
 
 </resources>
