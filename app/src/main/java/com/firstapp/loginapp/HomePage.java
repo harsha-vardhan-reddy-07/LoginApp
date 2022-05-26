@@ -47,6 +47,11 @@ public class HomePage extends AppCompatActivity {
             finish();
         }
     }
+    @Override
+    public void onBackPressed(){
+        super.onBackPressed();
+        finish();
+    }
 
     @Override
     protected void onStart(){
