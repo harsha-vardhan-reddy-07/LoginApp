@@ -291,7 +291,7 @@ public class login_activity extends AppCompatActivity {
             @Override
             public void onFailure(@NonNull Exception e) {
                 //error, get and show error message
-                progressDialog.dismiss();
+
                 Toast.makeText(login_activity.this, ""+e.getMessage(), Toast.LENGTH_SHORT).show();
             }
         });
