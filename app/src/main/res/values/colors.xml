@@ -7,7 +7,7 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="statusbar">#0ABBF3</color>
+    <color name="statusbar">#1488DC</color>
     <color name="actionbar">#2EA5FC</color>
     <color name="White">#FFFFFF</color>
     <color name="Ivory">#FFFFF0</color>
@@ -150,4 +150,5 @@
     <color name="Navy">#000080</color>
     <color name="Black">#000000</color>
     <color name="welcome_font">#276B81</color>
+    <color name="Splash_screen_status">#5EBBFF</color>
 </resources>
