@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
     // Intent: move to another activity an clicking a button
     // add Onclick = "Signup_page" to button in xml file
     public void SignUp_page(View view) {
-        Intent intent = new Intent(this, SignUpActivity.class);
+        Intent intent = new Intent(this, HomePage.class);
         startActivity(intent);
     }
 }
